@@ -181,7 +181,10 @@ margin-left: 60;
  
   /* margin-top: 130px;
   margin-bottom: 130px; */
-  background-position: bottom bottom;
+  background-image: url(./new-year-new-me/images/watch.png),url(./new-year-new-me/images/gradient2.png);
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  /* background-position: bottom bottom; */
   
 }
 .main-section-title{
